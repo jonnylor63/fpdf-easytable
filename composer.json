@@ -1,0 +1,14 @@
+{
+    "name": "jonnylor63/fpdf-easytable",
+    "description": "Fork di easytable gestito da Loto Servizi.",
+    "version": "v3.3.1",
+    "time": "2020-12-22",
+    "keywords": ["easytable", "lotoservizi"],
+    "license": "proprietary",
+    "type": "project",
+    "authors": [{"name": "Giovanni Lorenzini", "email": "giovanni.lorenzini@gmail.com"}],
+    "require": {
+        "php": ">=5.6",
+        "setasign/fpdf": "^1.8"
+    }
+}
