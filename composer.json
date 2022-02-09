@@ -7,6 +7,12 @@
     "license": "proprietary",
     "type": "project",
     "authors": [{"name": "Giovanni Lorenzini", "email": "giovanni.lorenzini@gmail.com"}],
+    "autoload": {
+        "classmap": [
+            "exfpdf.php",
+            "easyTable.php"
+        ]
+    },
     "require": {
         "php": ">=5.6",
         "setasign/fpdf": "^1.8"
